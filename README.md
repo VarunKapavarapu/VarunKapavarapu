@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="assets/hero.svg" alt="Varun Kapavarapu" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:00C9A7&height=260&section=header&text=Varun%20Kapavarapu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20AI%20Enthusiast&descAlignY=52&descSize=19&animation=fadeIn" />
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+scalable%2C+production-ready+systems;MERN+%2B+Spring+Boot+%2B+AI-integrated+apps;Turning+DSA+fundamentals+into+real+products;Currently+leveling+up%3A+System+Design+%26+Cloud" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="(https://www.linkedin.com/in/kapavarapu-varun/)">
+<a href="[https://www.linkedin.com/in/kapavarapu-varun/]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:2005kvarun@gmail.com">
@@ -243,6 +243,6 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 
 <br/><br/>
 
-<img width="100%" src="assets/footer.svg" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,35:2C5364,70:203A43,100:0F2027&height=140&section=footer" />
 
 </div>
