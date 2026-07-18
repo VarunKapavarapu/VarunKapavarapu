@@ -199,18 +199,7 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 
-## `[ 05 ]` Certifications
-
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL%20Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NPTEL%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
-
-
-
-## `[ 06 ]` GitHub Analytics
+## `[ 05 ]` GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VarunKapavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -241,7 +230,7 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
-## `[ 07 ]` Developer Philosophy
+## `[ 06 ]` Developer Philosophy
 
 > *"Clean code isn't written once — it's maintained forever. I build for the engineer who reads this six months from now, and that engineer is usually me."*
 
