@@ -1,85 +1,256 @@
-<h1 align="center">Hi there, I'm Varun 👋</h1>
+<div align="center">
 
-<h3 align="center">CS Student • Full-Stack Learner • Building things with Java, HTML & CSS</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Varun%20Kapavarapu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Learning+by+building+projects;Java+%2B+Web+Development;Currently+exploring+full-stack+dev;Open+to+collaboration+%26+new+ideas" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Varun5632005">
-    <img src="https://komarev.com/ghpvc/?username=Varun5632005&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Varun5632005?tab=followers">
-    <img src="https://img.shields.io/github/followers/Varun5632005?label=Followers&style=flat&color=2E9EF7" alt="followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+scalable%2C+production-ready+systems;MERN+%2B+Spring+Boot+%2B+AI-integrated+apps;Turning+DSA+fundamentals+into+real+products;Currently+leveling+up%3A+System+Design+%26+Cloud" alt="Typing SVG" />
 
----
+<br/><br/>
 
-### 🚀 About 
-
-- 🎓 I'm a Computer Science student, learning and building through hands-on projects
-- 💻 Comfortable across the stack — from Java fundamentals to front-end web development
-- 🌱 Currently sharpening my skills in **HTML, CSS, and Java**, and exploring full-stack development
-- 🛠️ I've worked on real-world style projects like a tour-booking site and a food delivery UI clone
-- 🏆 Participated in **Smart India Hackathon (SIH)** — solving problems that matter
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kapavarapu-varun/) 
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:2005kvarun@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/VarunKapavarapu">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=VarunKapavarapu&label=Profile%20Views&color=00C9A7&style=flat-square" />
 
-### 📌 Featured Projects
+</div>
 
-<p align="left">
-  <a href="https://github.com/Varun5632005/Natours-Web-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varun5632005&repo=Natours-Web-Project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Varun5632005/Omnifood">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varun5632005&repo=Omnifood&theme=tokyonight" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Varun5632005/opjavalab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varun5632005&repo=opjavalab&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Varun5632005/SIH">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varun5632005&repo=SIH&theme=tokyonight" />
-  </a>
-</p>
+<br/>
 
----
+## `[ 01 ]` About Me
 
-### 📊 GitHub Stats
+I'm a B.Tech Computer Science student (2023–2027, CGPA 8.0/10) at Prasad V. Potluri Siddhartha Institute of Technology, focused on building **scalable, user-centric applications with clean architecture**. My work spans full-stack development, backend engineering, and AI-integrated systems — from a real-time MERN booking platform handling 100+ concurrent requests, to a Spring Boot finance dashboard with JWT security and an AI chatbot assistant.
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Varun5632005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5632005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I care about writing code that's maintainable as much as code that works — and I'm currently deepening my backend and systems-design fundamentals to build toward large-scale engineering roles.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun5632005&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+```text
+> whoami
+Full-Stack Developer · Backend Engineer · AI Enthusiast · Problem Solver
+Based in Vijayawada, Andhra Pradesh, India
+```
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun5632005&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
+<br/>
 
----
+## `[ 02 ]` Tech Arsenal
 
-<p align="center">
-  <i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-025E8C?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=oracle&logoColor=white" />
+
+**Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+
+**SE Concepts**
+<br/>
+<img src="https://img.shields.io/badge/DSA-4B32C3?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-4B32C3?style=flat-square" />
+<img src="https://img.shields.io/badge/MVC-4B32C3?style=flat-square" />
+<img src="https://img.shields.io/badge/Agile%2FSDLC-4B32C3?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `[ 03 ]` Currently Learning
+
+<img src="https://img.shields.io/badge/Spring%20Boot%20(Advanced)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-3178C6?style=for-the-badge" />
+
+<br/><br/>
+
+## `[ 04 ]` Featured Projects
+
+<details open>
+<summary><b>💰 FinSight Hub — AI-Powered Finance Dashboard</b></summary>
+<br/>
+
+React.js + Spring Boot REST API + MongoDB Atlas finance management platform, secured with JWT auth, HTTP-only cookies, and bcrypt hashing.
+
+**Key Features**
+- Dynamic dashboard: balance trends, category-wise expense breakdown, real-time income/expense/savings stats, circular budget-goal indicators
+- Full CRUD transaction management with role-based Admin/Viewer modes
+- Smart filtering, bulk JSON import, CSV/JSON export
+- Built-in AI chatbot assistant
+- Glassmorphism UI with Framer Motion animations, multi-currency support
+
+**Stack:** `React.js` `Spring Boot` `MongoDB Atlas` `JWT` `bcrypt` `Framer Motion`
+
+**Challenge solved:** Balancing a secure, role-gated backend (JWT + HTTP-only cookies + CORS hardening) with a fluid, animation-heavy frontend without compromising API response times.
+
+🔗 [Repository](https://github.com/VarunKapavarapu/FinSight-Hub) · 🚀 [Live Demo](https://finsight-hub.netlify.app)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🎮 Video Game Sales Prediction — ML Regression</b></summary>
+<br/>
+
+A regression pipeline predicting global video game sales, with feature engineering and hyperparameter tuning driving accuracy gains.
+
+**Key Features**
+- End-to-end data preprocessing and cleaning pipeline
+- DSA-optimized pipeline performance with custom validation scripts for model integrity
+- Regional, genre, and platform-level sales trend visualizations
+
+**Stack:** `Python` `Regression Modeling` `Data Visualization`
+
+🔗 [Repository](https://github.com/VarunKapavarapu/Video-Game-Sales-Prediction)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎟️ Event Management & Booking System (MERN) — In Progress</b></summary>
+<br/>
+
+Full-stack MERN booking platform with a responsive, component-based UI and real-time seat-availability tracking.
+
+**Key Features**
+- MongoDB schemas with proper entity relationships; RESTful CRUD APIs
+- Real-time booking-state updates to prevent double-booking
+- Handles 100+ concurrent booking requests via Node.js event-driven architecture
+
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+**Status:** Built and resume-ready — repository push in progress.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🤖 AI Resume Matcher</b></summary>
+<br/>
+
+A Streamlit-based tool that uses a LLaMA language model to match resumes against job descriptions, helping surface how well a candidate's profile aligns with a given role.
+
+**Key Features**
+- Streamlit UI for quick resume/job-description input and instant results
+- LLaMA-powered semantic matching between resume content and job requirements
+- Lightweight, fast local inference workflow
+
+**Stack:** `Python` `Streamlit` `LLaMA`
+
+🔗 [Repository](https://github.com/VarunKapavarapu/AI-Resume-Matcher)
+
+</details>
+
+<br/>
+
+## `[ 05 ]` Research
+
+**Wet Grain Humidification Using ML Optimization**
+*SASI ITE Conference, 2025*
+
+Applied machine learning models to optimize moisture control in grain storage systems — analyzing environmental factors and building predictive models for humidity regulation, improving operational efficiency and reducing resource waste in real-world agricultural systems.
+
+<br/>
+
+## `[ 06 ]` Certifications
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL%20Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+## `[ 07 ]` Achievements
+
+| Category | Highlights |
+|---|---|
+| **Campus Leadership** | IIC Member · ED Cell Member · NEC Team Member |
+| **Sport** | Chess Captain |
+| **Arts** | Prize-Winning Piano Player |
+| **Cultural Excellence** | Bhagavad Gita Gold Medal — Avadhootha Datta Peetham |
+
+<br/>
+
+## `[ 08 ]` GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VarunKapavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunKapavarapu&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunKapavarapu&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunKapavarapu&theme=tokyo-night&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VarunKapavarapu&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+## `[ 09 ]` Developer Philosophy
+
+> *"Clean code isn't written once — it's maintained forever. I build for the engineer who reads this six months from now, and that engineer is usually me."*
+
+<br/>
+
+<div align="center">
+
+### Let's build something reliable together.
+
+<a href="mailto:2005kvarun@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-00C9A7?style=for-the-badge&logoColor=white" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" />
+
+</div>
