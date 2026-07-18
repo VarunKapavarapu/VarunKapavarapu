@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/in/kapavarapu-varun/]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:2005kvarun@gmail.com">
@@ -198,16 +198,8 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
-## `[ 05 ]` Research
 
-**Wet Grain Humidification Using ML Optimization**
-*SASI ITE Conference, 2025*
-
-Applied machine learning models to optimize moisture control in grain storage systems — analyzing environmental factors and building predictive models for humidity regulation, improving operational efficiency and reducing resource waste in real-world agricultural systems.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
-
-## `[ 06 ]` Certifications
+## `[ 05 ]` Certifications
 
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -216,18 +208,9 @@ Applied machine learning models to optimize moisture control in grain storage sy
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
-## `[ 07 ]` Achievements
 
-| Category | Highlights |
-|---|---|
-| **Campus Leadership** | IIC Member · ED Cell Member · NEC Team Member |
-| **Sport** | Chess Captain |
-| **Arts** | Prize-Winning Piano Player |
-| **Cultural Excellence** | Bhagavad Gita Gold Medal — Avadhootha Datta Peetham |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
-
-## `[ 08 ]` GitHub Analytics
+## `[ 06 ]` GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VarunKapavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -258,7 +241,7 @@ Applied machine learning models to optimize moisture control in grain storage sy
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
-## `[ 09 ]` Developer Philosophy
+## `[ 07 ]` Developer Philosophy
 
 > *"Clean code isn't written once — it's maintained forever. I build for the engineer who reads this six months from now, and that engineer is usually me."*
 
