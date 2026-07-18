@@ -18,11 +18,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=VarunKapavarapu&label=Profile%20Views&color=00C9A7&style=flat-square" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VarunKapavarapu&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/VarunKapavarapu?label=Followers&style=for-the-badge&color=00C9A7" />
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 01 ]` About Me
 
@@ -36,9 +39,17 @@ Full-Stack Developer · Backend Engineer · AI Enthusiast · Problem Solver
 Based in Vijayawada, Andhra Pradesh, India
 ```
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 02 ]` Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,spring,mysql,mongodb,aws,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -92,7 +103,7 @@ Based in Vijayawada, Andhra Pradesh, India
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 03 ]` Currently Learning
 
@@ -103,7 +114,7 @@ Based in Vijayawada, Andhra Pradesh, India
 <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Microservices-3178C6?style=for-the-badge" />
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 04 ]` Featured Projects
 
@@ -185,7 +196,7 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 
 </details>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 05 ]` Research
 
@@ -194,7 +205,7 @@ A Streamlit-based tool that uses a LLaMA language model to match resumes against
 
 Applied machine learning models to optimize moisture control in grain storage systems — analyzing environmental factors and building predictive models for humidity regulation, improving operational efficiency and reducing resource waste in real-world agricultural systems.
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 06 ]` Certifications
 
@@ -203,7 +214,7 @@ Applied machine learning models to optimize moisture control in grain storage sy
 <img src="https://img.shields.io/badge/NPTEL%20Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 07 ]` Achievements
 
@@ -214,7 +225,7 @@ Applied machine learning models to optimize moisture control in grain storage sy
 | **Arts** | Prize-Winning Piano Player |
 | **Cultural Excellence** | Bhagavad Gita Gold Medal — Avadhootha Datta Peetham |
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 08 ]` GitHub Analytics
 
@@ -236,6 +247,16 @@ Applied machine learning models to optimize moisture control in grain storage sy
 </div>
 
 <br/>
+
+<div align="center">
+
+**Live contribution snake** — regenerates daily via GitHub Actions (setup below ⬇️)
+
+<img src="https://raw.githubusercontent.com/VarunKapavarapu/VarunKapavarapu/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9A7&height=3" />
 
 ## `[ 09 ]` Developer Philosophy
 
