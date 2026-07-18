@@ -17,14 +17,14 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About 
 
 - 🎓 I'm a Computer Science student, learning and building through hands-on projects
 - 💻 Comfortable across the stack — from Java fundamentals to front-end web development
 - 🌱 Currently sharpening my skills in **HTML, CSS, and Java**, and exploring full-stack development
 - 🛠️ I've worked on real-world style projects like a tour-booking site and a food delivery UI clone
 - 🏆 Participated in **Smart India Hackathon (SIH)** — solving problems that matter
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-here) *(swap in your link!)*
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kapavarapu-varun/) 
 
 ---
 
